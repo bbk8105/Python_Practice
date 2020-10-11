@@ -10,3 +10,5 @@ print("오늘", stadium, "에서 축구 경기가 열렸습니다")
 print(winner, "과", loser, "은(는) 치열한 공방전을 펼쳤습니다.")
 print(vip, "가(이) 맹활약을 하였습니다")
 print("결국", winner, "가(이)", loser, "를(을)", score, "로 이겼습니다.")
+
+input("")
