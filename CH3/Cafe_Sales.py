@@ -11,3 +11,5 @@ sales = sales + cafelatte_price * cafelattes
 sales = sales + capucino_price * capucinos
 
 print("총 매출은", sales, "\입니다.")
+
+input("")
