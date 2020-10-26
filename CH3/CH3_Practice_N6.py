@@ -11,7 +11,7 @@ y2 = float(input("y2 좌표: "))
 t.up()
 t.goto(x1, y1)
 t.down()
-t.goto(x2. y2)
+t.goto(x2, y2)
 
 xsum = (x1 - x2)**2
 ysum = (y1 - y2)**2
@@ -19,3 +19,4 @@ total = (xsum + ysum)**0.5
 
 print("두 점 사이의 거리 =", total)
 
+input("")
